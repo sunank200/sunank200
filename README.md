@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - :bulb: Open source advocate.
 - :mag_right: [Apache-Airflow](https://github.com/apache/airflow) contributors.
 - :computer: Senior Software Engineer at Astronomer.
-- 🚴: My favorite sport is Cycling.
+- 🚴: My favourite sport is Cycling.
 
 ## Contact Me
 
@@ -50,3 +50,9 @@ Here are some ideas to get you started:
 
 ![CircleCI](https://img.shields.io/static/v1?style=for-the-badge&message=CircleCI&color=343434&logo=CircleCI&logoColor=FFFFFF&label=)
 ![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
+
+<br>
+
+<div align="left">
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sunank200&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
