@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 ## Contact Me
 
-![https://www.linkedin.com/in/sunank200/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
+<a href="https://www.linkedin.com/in/sunank200/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## 🔧 Skills
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
