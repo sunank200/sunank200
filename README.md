@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 ![CircleCI](https://img.shields.io/static/v1?style=for-the-badge&message=CircleCI&color=343434&logo=CircleCI&logoColor=FFFFFF&label=)
 ![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
 
+<!--
 ## ⭐ GitHub Stat
 [![Ankit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sunank200&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
